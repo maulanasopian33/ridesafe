@@ -23,7 +23,6 @@ pids
 coverage/
 
 # Database & Sequelize
-config/config.json
 database.sqlite
 *.sqlite3
 *.db
